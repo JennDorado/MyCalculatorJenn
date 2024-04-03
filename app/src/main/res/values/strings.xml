@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="title_activity_botton2">Botton2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
